@@ -1,0 +1,18 @@
+body * {
+	margin:0;
+	padding:0;
+}
+
+
+#wrapper{
+	width:1000px;
+	height:500px;
+	margin:0 auto;
+}
+
+#canvas{
+	margin-top:25%;
+	border:3px solid #000;
+	width:1000px;
+	height:500px;
+}
